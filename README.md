@@ -20,7 +20,10 @@ The dataset used in this project is the Maternal Health Risk Assessment Dataset,
 • 	Link: Maternal Health Risk Assessment Dataset
 • 	Published: 1 November 2024  Version 1
 • 	Description: This dataset comprises detailed clinical, physiological, and historical health information collected from maternal patients to evaluate potential health risks during pregnancy. It serves as a resource for developing predictive models aimed at identifying and managing high-risk pregnancies, providing insights into maternal health factors, and supporting personalized patient care. The dataset is well-suited for research in obstetrics, predictive health modeling, and maternal healthcare management.
-Data Cleaning & Preparation
+
+
+📊 Data cleaning and preparation
+
 Performed in Excel:
 • 	Removed duplicates and corrected missing values
 • 	Standardized headers with proper units (mmHg, mmol/L, °F, kg/m²)
